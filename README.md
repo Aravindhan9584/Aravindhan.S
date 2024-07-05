@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aravindhan</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 <!-- <img  align ="right" height="auto"  alt ="coding "  src="https://wallpapers.com/images/hd/coding-background-ymmnuu6nqsmj3a4o.jpg"/> -->
-<img align="center" alt="Coding" padding-left=50px; width="800" height="auto" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrmn9V5uPOUE4xAidHFwmlF6cw7L84BvQkXEqlqYQoRymTp0Gf9yZWlHd5CwTXg96owTc&usqp=CAU"/>
+<img align="center" alt="Coding" padding-left=50px; width="1000" height="auto" src="https://i.pinimg.com/originals/d4/81/f3/d481f3c72e283309071f79e01b05c06d.gif"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aravindhan9584&label=Profile%20views&color=0e75b6&style=flat" alt="aravindhan9584" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aravindhan9584" alt="aravindhan9584" /></a> </p>
