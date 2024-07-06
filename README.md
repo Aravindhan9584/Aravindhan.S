@@ -1,3 +1,4 @@
+<img width="1100" height="auto" src="https://github.com/Aravindhan9584/Aravindhan.S/blob/main/Untitled%20design%20(1).png"/>
 <h1 align="center">Hi 👋, I'm Aravindhan</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 <!-- <img  align ="right" height="auto"  alt ="coding "  src="https://wallpapers.com/images/hd/coding-background-ymmnuu6nqsmj3a4o.jpg"/> -->
